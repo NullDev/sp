@@ -1,0 +1,13 @@
+Source: sp
+Section: unknown
+Priority: optional
+Maintainer: NLDev <chris@nulldev.org>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://github.com/NLDev/sp
+
+Package: sp
+Architecture: all
+Depends: ${misc:Depends}
+Description: Command-line client for Spotify's dbus interface
+ sp is a command-line client for Spotify's dbus interface. Play, pause, skip and search tracks from the comfort of your command line.
