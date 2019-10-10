@@ -1,6 +1,9 @@
 # sp
 Debian/Ubuntu Package for sp - a command-line client for Spotify's dbus interface
 
+> _sp is a command-line client for Spotify's dbus interface. Play, pause, skip and search tracks from the comfort of your command line._
+
+
 Original Script by Wander Nauta: <br>
 https://gist.github.com/wandernauta/6800547
 
