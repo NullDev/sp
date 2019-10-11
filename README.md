@@ -24,13 +24,13 @@ https://gist.github.com/wandernauta/6800547
   $ `sudo apt-get install -y dh-make devscripts`
 - Clone the repository and navigate into it: <br>
   $ `git clone https://github.com/NLDev/sp.git && cd sp`
-- Remove the existing `.dep`: <br>
+- Remove the existing `.deb`: <br>
   $ `rm sp_1.0-1_all.deb`
 - Navigate into the [sp-1.0](https://github.com/NLDev/sp/tree/master/sp-1.0) folder: <br>
   $ `cd sp-1.0`
-- Use the following command to build the .dep: <br>
+- Use the following command to build the .deb: <br>
   $ `debuild -us -uc`
-- Now navigate back into the repository root and you should see your `.dep`: <br>
+- Now navigate back into the repository root and you should see your `.deb`: <br>
   $ `cd .. && ls`
 - Finally, install it: <br>
   $ `sudo dpkg -i sp_1.0-1_all.deb`
