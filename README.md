@@ -9,11 +9,11 @@ https://gist.github.com/wandernauta/6800547
 
 ## How to install: 
 
-- [Download](https://github.com/NLDev/sp/archive/master.zip) the repository and exctract it.
-- Open a terminal and navigate into the newly extracted folder.
+- [Download](https://github.com/NLDev/sp/releases/download/1.0/sp_1.0-1_all.deb) the binary.
+- Open a terminal and navigate into the folder containing the downloaded binary.
 - Finally run: <br>
   $ `sudo dpkg -i sp_1.0-1_all.deb`
-- (Optional) Delete the `.deb` file, it's containing folder and the archive file.
+- (Optional) Delete the `.deb` file, it's not needed anymore.
 - Done.
 
 <hr>
