@@ -9,7 +9,7 @@ https://gist.github.com/wandernauta/6800547
 
 ## How to install: 
 
-- [Download](https://github.com/NLDev/sp/releases/download/1.0/sp_1.0-1_all.deb) the binary.
+- [Download](https://github.com/NullDev/sp/releases/download/1.0/sp_1.0-1_all.deb) the binary.
 - Open a terminal and navigate into the folder containing the downloaded binary.
 - Finally run: <br>
   $ `sudo dpkg -i sp_1.0-1_all.deb`
@@ -23,10 +23,10 @@ https://gist.github.com/wandernauta/6800547
 - Install the required packages: <br>
   $ `sudo apt-get install -y dh-make devscripts`
 - Clone the repository and navigate into it: <br>
-  $ `git clone https://github.com/NLDev/sp.git && cd sp`
+  $ `git clone https://github.com/NullDev/sp.git && cd sp`
 - Remove the existing `.deb`: <br>
   $ `rm sp_1.0-1_all.deb`
-- Navigate into the [sp-1.0](https://github.com/NLDev/sp/tree/master/sp-1.0) folder: <br>
+- Navigate into the [sp-1.0](https://github.com/NullDev/sp/tree/master/sp-1.0) folder: <br>
   $ `cd sp-1.0`
 - Use the following command to build the .deb: <br>
   $ `debuild -us -uc`
