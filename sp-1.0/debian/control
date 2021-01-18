@@ -1,10 +1,10 @@
 Source: sp
 Section: unknown
 Priority: optional
-Maintainer: NLDev <chris@nulldev.org>
+Maintainer: NullDev <chris@nulldev.org>
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.1.2
-Homepage: https://github.com/NLDev/sp
+Homepage: https://github.com/NullDev/sp
 
 Package: sp
 Architecture: all
