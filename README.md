@@ -7,6 +7,8 @@ Debian/Ubuntu Package for sp - a command-line client for Spotify's dbus interfac
 Original Script by Wander Nauta: <br>
 https://gist.github.com/wandernauta/6800547
 
+Find it on Launchpad: https://launchpad.net/sp
+
 ## How to install: 
 
 - [Download](https://github.com/NullDev/sp/releases/download/1.0/sp_1.0-1_all.deb) the binary.
